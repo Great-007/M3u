@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="HubSports Cricket" tvg-logo="" group-title="Sports",HubSports Cricket
+http://edge.zerobuff.com/bb77a5a232fadc5858d2e747d1ae6ca0a2a398bd27001eee3946c092be188430353c789f458bbd4d16de494a2ea268849b79625b24f2952afe7f2325e2becddd8de6f4948ac9d28420abfb94e52da4d1ca35256e2b59da05df1ccef33ff599fd6350c33fd654c08a10c404e3/index.m3u8
+#EXTINF:-1 tvg-name="Fox Cricket" tvg-logo="" group-title="Sports",Fox Cricket
+http://edge.zerobuff.com/bb77a5a232fadc5858d2e84adeae6ca0a2a398bd27001eee3946ce88a4188430252d7e855983aa5029a4392c7ca66b988479635b24f19128ef78273becb8cbc192e3f1948ac2d5d670a3ac89b57aa4d09f65263d7e0edd0bd9189cf76ea699fd6406933ed206c0dd/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 3" tvg-logo="" group-title="Sports",Sky Sport 3
+http://edge.zerobuff.com/bb77a5a232fadc5858d5e042d1ae6ca0a2a398bd27001eee3946db8ca5188430353c78932997a14102ca565b13df1cf8f130654027e99732e178253eecbeccdc8ff1f48d89d5d19b3fa3fadcf82dfcd08037243f2f0bda0b8f4b9ea168f79ffd3554c36c865392dd47cc01b2e84ed3c840/index.m3u8
